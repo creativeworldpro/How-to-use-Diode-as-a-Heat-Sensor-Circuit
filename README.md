@@ -3,7 +3,9 @@ The article is being published in collaboration with JLCPCB. They supply high qu
 The final circuit diagram and design can be seen above. We also thank to our sponsor JLCPCB (https://jlcpcb.com/RTA) for sponsoring us PCB for this project.
 
 Thanks To JLCPCB.
+
 $2 for 1-4 Layer PCBs.
+
 Get SMT Coupons - https://jlcpcb.com/RTA
 
 Are you interested about making a heat sensor circuit using a rectifier diode ? If so, you have come to the right place. In this blog post, we will discuss the basics of creating a heat sensor circuit that is both accurate and sensitive. The main thing is that, we will make this circuit using a cheap rectifier diode.
