@@ -21,7 +21,7 @@ There are many types of diodes available, and the sensitivity of the diode to te
 Overall, while a diode can be used as a heat sensor, it may not be the most accurate or precise method of temperature measurement. Other types of temperature sensors, such as thermocouples or resistance temperature detectors, may be better suited for certain applications.
  
 
-Component List
+Component List -
 
 When it comes to creating a heat sensor using a rectifier diode, it’s important to have the right components in your list. A heat sensor can be used for a variety of applications such as measuring temperature, controlling cooling systems.
 
@@ -175,7 +175,7 @@ Estimated Delivery Time -
 •	Registered Air Mail 15-20 business days
 
 
-JLCPCB supported Payment method.
+JLCPCB supported Payment method -
 
 •	PayPal
 
